@@ -5,7 +5,7 @@ It's kinda overkill to set up a backend, and untrustworthy to use any "free APIs
 
 Github Pages to the rescue
 
-Based on: ![QRCode.js](https://davidshimjs.github.io/qrcodejs/)
+Based on: [QRCode.js](https://github.com/davidshimjs/qrcodejs)
 
 ### Examples:
 
