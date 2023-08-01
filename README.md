@@ -5,6 +5,7 @@ It's kinda overkill to set up a backend, and untrustworthy to use any "free APIs
 
 Github Pages to the rescue
 
+Based on: ![QRCode.js](https://davidshimjs.github.io/qrcodejs/)
 
 ### Examples:
 
@@ -28,5 +29,6 @@ const height = getParameterByName("height") || 256;
 const fg = getParameterByName("fg") || "#000000";
 const bg = getParameterByName("bg") || "#ffffff";
 ```
+
 
 
