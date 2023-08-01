@@ -9,14 +9,14 @@ Based on: [QRCode.js](https://github.com/davidshimjs/qrcodejs)
 
 ### Examples:
 
-https://twinone.github.io/openqr/index.html?fg=red&bg=black&text=https://google.com/
-https://twinone.github.io/openqr/index.html?fg=red&bg=black&text=https://github.com/twinone/openqr
+https://twinone.github.io/openqr?width=1024&height=1024&fg=red&bg=black&text=https://google.com/
+https://twinone.github.io/openqr?text=https://github.com/twinone/openqr
 
 
 # Usage
 ```
 
-<iframe src="https://twinone.github.io/openqr/index.html?<params>"></iframe>
+<iframe src="https://twinone.github.io/openqr?<params>"></iframe>
 
 
 ```
